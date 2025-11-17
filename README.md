@@ -233,19 +233,21 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output screen shots of proteus  :
 
  FOR PULSE AT 500:
-<img width="1920" height="1080" alt="495564463-c86591b3-a8a8-4c08-8340-923ae647620e" src="https://github.com/user-attachments/assets/fc8b22e2-c929-4163-84f9-5734917e7a7a" />
+<img width="1920" height="1080" alt="500" src="https://github.com/user-attachments/assets/1eb12f77-6d4f-47d7-b3f5-1f1f41e2e91f" />
+
 
  FOR PULSE AT 750:
-<img width="1920" height="1080" alt="495564610-64842bcc-b25d-4ab4-86e6-5e62abff2fc6" src="https://github.com/user-attachments/assets/10d2d99b-79e4-407a-a188-34eb0f7fb34a" />
+<img width="1920" height="1080" alt="750" src="https://github.com/user-attachments/assets/bfdc14ab-05cd-4507-b61f-2c1bae3a862e" />
 
  FOR PULSE AT 400:
-<img width="1920" height="1080" alt="495564723-1f7a6e07-ba98-400b-a1aa-11f7806889a8" src="https://github.com/user-attachments/assets/e2379081-94a1-4de1-a276-341fcbcb3b6a" />
+
+<img width="1920" height="1080" alt="250" src="https://github.com/user-attachments/assets/40de831b-35e2-43ac-9a47-3a648ae1487c" />
 
  
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
- <img width="855" height="799" alt="image" src="https://github.com/user-attachments/assets/6f73d355-9699-4f61-88fb-5292aec70a07" />
+<img width="814" height="851" alt="Screenshot 2025-11-17 173924" src="https://github.com/user-attachments/assets/ef9c4b8d-f5f5-46c3-8abb-e29ac8f7eb39" />
 
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
