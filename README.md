@@ -239,7 +239,7 @@ void assert_failed(uint8_t *file, uint32_t line)
  FOR PULSE AT 750:
 <img width="1920" height="1080" alt="750" src="https://github.com/user-attachments/assets/bfdc14ab-05cd-4507-b61f-2c1bae3a862e" />
 
- FOR PULSE AT 400:
+ FOR PULSE AT 250:
 
 <img width="1920" height="1080" alt="250" src="https://github.com/user-attachments/assets/40de831b-35e2-43ac-9a47-3a648ae1487c" />
 
